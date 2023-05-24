@@ -2,7 +2,6 @@ body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     padding: 20px;
     font-family: sans-serif;
- 
 }
 
 h1, h2, p {
@@ -16,7 +15,6 @@ h1, h2 {
 h1 {
     font-size: 40px;
     margin: 0 15px auto;
-
 }
 
 h2 {

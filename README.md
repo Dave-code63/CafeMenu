@@ -1,3 +1,3 @@
 # Description
 
-Creating a Cafe Menu for Campers.
+Learn Basic CSS by Building a Cafe Menu.
